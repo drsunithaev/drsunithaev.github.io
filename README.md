@@ -6,7 +6,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome Portal Main Space</h1>
-<p>Ubuntu Linux Git Learning Space Session User Portfolio</p><br> <br>
+<h1>Welcome Portal Main Space</h1> <br> <br><br> <br>
+<p>Ubuntu Linux Git Learning Space Session User Portfolio</p> 
 </body>
 </html>
